@@ -1,8 +1,8 @@
-🍎 Frutería Digital
+# 🍎 Frutería Digital
 Una aplicación web para gestionar una frutería en línea, creada con Django. Los usuarios pueden navegar por el catálogo de frutas, añadir productos al carrito y realizar pedidos. Los administradores pueden gestionar el inventario, los pedidos y los clientes.
 
-🚀 Funcionalidades
-Gestión de Productos:
+# 🚀 Funcionalidades
+#Gestión de Productos:
 
 Agregar, editar y eliminar productos (frutas) del catálogo.
 Cada producto tiene nombre, descripción, precio, stock y una imagen.
